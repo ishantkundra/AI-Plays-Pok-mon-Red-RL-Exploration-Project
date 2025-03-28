@@ -50,7 +50,7 @@ M.S. Computer Science, Texas A&M University
 📧 ishantkundra9@gmail.com
 
 **Rahaan Gandhi**
-B.S. Computer Science, Texas A&M University
+M.S. Computer Science, Texas A&M University
 
 **Aashay Kadakia**
-B.S. Computer Science, Texas A&M University
+M.S. Computer Science, Texas A&M University
